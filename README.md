@@ -10,4 +10,4 @@ SwipeRefreshLayout demo
    3、普通view的下拉刷新
 
 
-<img src="http://a.hiphotos.baidu.com/image/pic/item/ac4bd11373f08202ca5cf9cc49fbfbedaa641b72.jpg" alt="happydeer">
+<img src="https://raw.githubusercontent.com/hexiaochun/SwipeRefreshLayout/master/doc/1213.gif" alt="happydeer">
